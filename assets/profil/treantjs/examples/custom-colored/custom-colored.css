@@ -1,0 +1,40 @@
+path {
+    stroke: "grey";
+}
+
+/* optional Container STYLES */
+.chart { height: auto; margin: 5px; width: 100%;  }
+.Treant > .node {  }
+.Treant > p { font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-weight: bold; font-size: 12px; }
+.node-name { font-weight: bold;}
+
+.nodeExample1 {
+    padding: 2px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #ffffff;
+    border: 3px solid #2c3e50;
+    min-width: 300px;
+    font-family: Tahoma;
+    font-size: 12px;
+}
+
+.nodeExample1 img {
+    margin-right:  10px;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+.gray {
+    background-color: #909090;
+}
+
+.light-gray {
+    background-color: #D3D3C7;
+}
+
+.blue {
+    background-color: #A2BDFD;
+}
